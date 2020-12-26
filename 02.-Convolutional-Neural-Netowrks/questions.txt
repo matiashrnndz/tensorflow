@@ -1,0 +1,10 @@
+Question 1
+If my Image is sized 150x150, and I pass a 3x3 Convolution over it, what size is the resulting image?
+Resp: 148x148
+
+
+Question 2
+If my data is sized 150x150, and I use Pooling of size 2x2, what size will the resulting image be?
+Resp: 75x75
+
+
